@@ -8,14 +8,15 @@
 
 <h2 data-importer="text" align="left">Estatísticas:</h2>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/CaverDoDolly/CaverDoDolly/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=CaverDoDolly&rank_icon=github&hide_title=true&custom_title=Estat%C3%ADsticas&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&hide_title=true&custom_title=Estat%C3%ADsticas&show_icons=true&include_all_commits=true&theme=tokyonight)
+
+<div data-importer="stats" align="left">
   <img src="https://raw.githubusercontent.com/CaverDoDolly/CaverDoDolly/languages-output/languages.svg?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 data-importer="text" align="left">Entusiasta e estou aprendendo essas linguagens:</h3>
+<h3 data-importer="text" align="left">Aprendendo essas linguagens:</h3>
 
 ###
 
