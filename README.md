@@ -7,7 +7,7 @@
 ###
 
 <h2 data-importer="text" align="left">Estatísticas:</h2>
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=CaverDoDolly)](https://github.com/stats-organization/github-stats-extended)
 ###
 
 <div data-importer="stats" align="center">
