@@ -7,8 +7,6 @@
 ###
 
 <h2 data-importer="text" align="left">Estatísticas:</h2>
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=CaverDoDolly)](https://github.com/stats-organization/github-stats-extended)
-###
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/CaverDoDolly/CaverDoDolly/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
