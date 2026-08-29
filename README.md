@@ -11,7 +11,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=CaverDoDolly&rank_icon=github&hide_title=true&custom_title=Estat%C3%ADsticas&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&hide_title=true&custom_title=Estat%C3%ADsticas&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 <div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/CaverDoDolly/CaverDoDolly/languages-output/languages.svg?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/CaverDoDolly/CaverDoDolly/languages-output/languages.svg?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages ggraph"  />
 </div>
 
 ###
